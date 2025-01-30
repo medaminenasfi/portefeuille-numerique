@@ -1,16 +1,7 @@
-# simulation_portefeuille_numerique
+# 💼 Portefeuille Numérique (Flutter)
 
-A new Flutter project.
+Une application mobile simulatrice de portefeuille numérique avec deux fonctionnalités principales :
+1. **Convertisseur de devises** : Conversion de montants avec des taux fixes (USD, EUR, XOF, etc.).
+2. **Simulateur de budget mensuel** : Suivi des dépenses et calcul du solde restant.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🚀 Développé avec Flutter et Dart, idéal pour gérer des finances personnelles ou explorer des concepts de développement mobile.
