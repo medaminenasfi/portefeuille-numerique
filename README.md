@@ -1,17 +1,17 @@
-# 💼 Portefeuille Numérique Flutter
+# 💼 Flutter Digital Wallet
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-Une application mobile pour simuler un portefeuille numérique avec conversion de devises et gestion de budget mensuel.
+A mobile application to simulate a digital wallet with currency conversion and monthly budget management.
 
-## ✨ Fonctionnalités
-- **Convertisseur de devises** :
-  - Taux de change fixes (ex: 1 USD = 600 XOF, 1 EUR = 650 XOF).
-  - Support des devises : USD, EUR, XOF, GBP, etc.
-  - Interface simple pour saisir le montant et choisir la devise.
-- **Simulateur de budget mensuel** :
-  - Ajout de dépenses avec catégories (nourriture, transport, loisirs).
-  - Calcul automatique du total des dépenses et du solde restant.
-  - Visualisation claire du budget avec des graphiques.
+## ✨ Features
+- **Currency converter** :
+  - fixed exchange rates (ex: 1 USD = 600 XOF, 1 EUR = 650 XOF).
+  - Currency support: USD, EUR, XOF, GBP, etc.
+  - Simple interface to enter amount and choose currency.
+- **Monthly budget simulator** :
+  - Adding expenses with categories (food, transportation, leisure).
+  - Automatic calculation of total expenses and remaining balance.
+  - Clear budget visualization with graphs.
 
