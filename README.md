@@ -1,17 +1,35 @@
-# 💼 Flutter Digital Wallet
+# simulation_portefeuille_numerique
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+A new Flutter project.
 
-A mobile application to simulate a digital wallet with currency conversion and monthly budget management.
+## Getting Started
 
-## ✨ Features
-- **Currency converter** :
-  - fixed exchange rates (ex: 1 USD = 600 XOF, 1 EUR = 650 XOF).
-  - Currency support: USD, EUR, XOF, GBP, etc.
-  - Simple interface to enter amount and choose currency.
-- **Monthly budget simulator** :
-  - Adding expenses with categories (food, transportation, leisure).
-  - Automatic calculation of total expenses and remaining balance.
-  - Clear budget visualization with graphs.
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+# Portefeuille Numérique Flutter
+## Description
+Cette application Flutter simule un portefeuille numérique avec deux principales fonctionnalités :
+- **Convertisseur de devises** : Permet de convertir un montant avec un taux fixe.
+- **Simulateur de budget mensuel** : Calcule les dépenses totales et le solde mensuel restant.
+## Fonctionnalités
+1. Écran principal avec navigation vers :
+   - Convertisseur de devises.
+   - Simulateur de budget.
+2. Interface conviviale avec Flutter.
+3. Calculs basiques sans API externe.
+## Installation
+1. Clonez le dépôt : `git clone https://github.com/votre-utilisateur/portefeuille_numerique_flutter.git`
+2. Accédez au répertoire : `cd portefeuille_numerique_flutter`
+3. Exécutez l'application avec Flutter : `flutter run`
+## Auteur
+- **Nom** : Votre Nom
+- **École** : ESSAT Gabès
+- **Mini Projet - Décembre 2024**
